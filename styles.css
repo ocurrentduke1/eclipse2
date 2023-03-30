@@ -1,0 +1,247 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.carr{
+   color: aliceblue;
+   border: 3px solid #181616;
+   background-color: #d4400f;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+    width: auto;
+    background-color: #181616;
+}
+header{
+    position: sticky;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: #181616 ;
+
+}
+
+.footer{
+   margin-top: 50%;
+    position: sticky;
+    background-color: #181616;
+    width: 100%;
+    padding: 1.5rem;
+    padding-top: 5rem;
+    border: solid black;
+}
+.filtros{
+    float: left;
+    margin: 0;
+    width: 180px;
+    height: 100%;
+    background-color: #692211 ;
+    color: white;
+    border: solid black ;
+    position: fixed;
+}
+.acciones{
+    position: fixed;
+    right: 0;
+    margin: 0;
+    width: 180px;
+    height: 100%;
+    background-color: #692211;
+    color: white;
+    border: solid black;
+
+}
+.general{
+    margin-left: 180px;
+    margin-right: 180px;
+    height: 100%;
+    background-color: #181616;
+    border: solid #181616 ;
+    padding: 10px;
+}
+.vision{
+    color: antiquewhite;
+    padding: 10px;
+}
+.mision{
+    color: antiquewhite;
+    padding: 10px;
+}
+.somos{
+    color: antiquewhite;
+    padding: 10px;
+}
+.productos{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+ }
+.productos li{
+    text-decoration: none;
+    display: block;
+    color: white;
+    list-style: none;
+}
+.productos li ul{
+    display: none;
+    position: absolute;
+}
+.productos li:hover > ul{
+    display:block;
+}
+.productos li:hover{
+    background-color: #612010;
+}
+.sesion{
+    list-style: none;
+    margin: 0;
+    padding: 20px;
+}
+.sesion li:hover{
+    background-color: #612010;
+}
+.info{
+    list-style: none;
+    color: white;
+ }
+
+.nosotros{
+    text-decoration:underline;
+    color: white;
+ }
+a{
+    text-decoration: none;
+    color: white;
+ }
+li{
+    padding: 2px;
+ }
+ 
+ 
+/*Definen los fotogramas de la secuencia de animacion
+se estable un inicio y un fin para cada animacion estos se miden en % y van de 0 a 100*/
+
+@keyframes slide{
+
+    /* imagen1 */
+    0%{margin-left: 0%;}                     /*inicio*/
+    40%{margin-left: 0%;}                    /*fin*/
+    /* imagen2 */
+    40%{margin-left: -100%;}
+    66%{margin-left: -100%;}
+    /* imagen3 */
+    66%{margin-left: -200%;}
+    100%{margin-left: -200%;}
+}
+
+.general {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+ .lregis{
+    color: white;
+ }
+/*/////////////////////////////////////////// */
+ /*//////////////////////////////*/
+ .frame-slider3{
+    width: 25vh;
+    height: 20vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em;
+    margin-bottom: 2em;
+    overflow: hidden;
+    border: 2px solid;
+
+ }
+
+ .frame-slider3 ul{
+    display: flex;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+ }
+ .frame-slider3 li{
+    list-style: none;
+    width: 100%;
+ }
+ .frame-slider3 img{
+    height: 100%;
+    width: 100%;
+ }
+ .card2 p{
+    margin-top: 1rem;
+    color:white ;
+ }
+ .general .card2 {
+    max-width: 3rem;
+    min-width: 15rem;
+    text-align: center;
+    background-color:  #d4400f ;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 2em;
+    padding-bottom: 1em;
+}
+.general .card2 img{
+    width: 100%;
+    display: flex;
+    justify-content: center;    
+}
+ .card2 button{
+    margin-top: 0.5em;
+    color: black;
+    border-radius: 5px;
+ }
+ .card2 h3{
+    margin-top: 10px;
+ }
+
+.fondo{
+   background-image: url(./imagenes/logo_iconos/fondo2.jpg);
+}
+.container{
+   border-radius: 5px;
+   display: flex;
+   justify-content: center;
+   margin-top: 13%;
+   padding: 3rem 1rem;
+   max-width: 15rem;
+   background-color: #612010;
+   border: 5px #181616;
+}
+
+.container p{
+   padding-top: .5rem;
+   padding-bottom: .5rem;
+}
+
+.admin_page{
+    background-color: bisque;
+}
+
+.input{
+    border: 1px #181616 solid;
+    border-radius: 5px;;
+}
+
+.th{
+    border: 3px #181616 solid;
+    background-color: aquamarine;
+}
+.thb{
+    border-left: 2px #181616 solid;
+}
+.thbb{
+    border: 2px #181616 solid;
+    background-color: #d4400f;
+}
+button:hover{
+    background-color: grey;
+}
+

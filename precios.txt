@@ -1,0 +1,121 @@
+////prearmadas////////////////
+BICICLETA 16" SUNDAY BLUEPRINT 15.5" VERDE AZULADO GLOSS $8,189
+BICICLETA 20" SUNDAY BLUEPRINT 20" ROJO FUEGO GLOSSY $11,339
+BICICLETA 20" SUNDAY PRIMER 20" VERDE AZULADO GLOSS $12,284
+BICICLETA 20" SUNDAY PRIMER 20.5" NEGRO GLOSS $12,704
+BICICLETA 20" SUNDAY SCOUT 20.75" NEGRO GLOSS $13,754
+BICICLETA SUNDAY 20" SCOUT 21" RAW MATE $14,069
+BICICLETA 20" SUNDAY FORECASTER MACA PEREZ 20.5" AZUL RAIN GLOSS $15,749
+BICICLETA 20" SUNDAY SOUNDWAVE YOUNG FC RHD 21" BCO GLOSS $33,179
+////////////rines//////////////
+Cinema ZX 333 20" Rueda BMX Delantera $2,490
+Salt Everest 20" BMX Frente Rueda $1,990
+Cinema ZX 333 20" Rueda Cassette BMX Trasera$3,390
+Odyssey Clutch Freecoaster V2 BMX Rueda Trasera $6,490
+Salt Everest Flip-Flop 20" BMX Trasero Rueda $2,290
+Stolen 18" Rampage BMX Frente Rueda $1,490
+Stolen 16" Rampage BMX Frente Rueda$1,790
+Rant Party On V2 18" Cassette BMX Rear Wheel$3,190
+Salt Rookie Flip-Flop 16" BMX Trasero Rueda$1,990
+/////////////////llantas///////////
+Cult x Vans Waffle 20" Cubierta BMX $669
+Cult x Vans Waffle 16" BMX Cubierta$539
+Cult x Vans Waffle 20" Cubierta BMX$669
+Eclat Decoder Low Pressure 20" BMX Cubierta $629
+Fiction 16" Troop Cubierta BMX $329
+Fiction 18" Troop BMX Cubierta $399
+Fiction 20" Troop BMX Cubierta $419
+Kink Sever 20" BMX Cubierta $559
+Salt Plus Sting 20" BMX Cubierta$539
+Wethepeople Activate 60 PSI 20" Cubiertas BMX $699
+//////////////camaras/////////////
+BMXFIX A/V Bike Tube 20" $119
+SkatePro Schrader BMX Tube 16"$119
+Tubolito 20" Presta Lightweight BMX Tube $729
+Salt Fondo BMX 18''$139
+///////////cuadros///////////
+Federal Boyd ICS2 Cuadro BMX Freestyle $6,890
+Cult Begin Heavens Gate Cuadro BMX Freestyle $9,190
+Cult 2 Short Panza Signature Cuadro BMX Freestyle $9,890
+Federal Bruno 3 Cuadro BMX Freestyle $7,590
+Wethepeople Utopia Hybrid Cuadro BMX Freestyle $8,390
+Kink Help Nathan Williams BMX Cuadro $6,490
+Bone Deth Machine Cuadro BMX Freestyle $6,190
+//////////////cadenas////////////
+Cult 410 Cadenas BMX $189
+Cult P-121 Half Link Cadena BMX $619
+Odyssey Bluebird Half Link Cadenas BMX $669
+//////////////eje///////////////
+Odyssey Mid BMX Bottom Bracket $569
+Federal V2 Mid Eje de pedalier $439
+Stolen Revolver Spanish BMX Juego de Pedalier Sellado $429
+///////////pedales//////////////
+Colony Fantastic 9/16" Pedales BMX $309
+Mankind Control Plastic Pedales BMX $349
+Demolition Trooper Plastic Pedales BMX $389 
+Federal Contact 9/16" Pedales BMX $359
+Federal Command Plastic BMX Pedals $469
+///////////bielas//////////////
+Family Tubular 3-Piece 8-Spline BMX Cranks $879
+Mafia Pablo 8-spline BMX Crank $1,490
+Family Tubular 3-Piece 48-Spline BMX Cranks $1,990
+Demolition Revolt 48 Spindle BMX Crank $4,090
+///////////////puños////////////
+Colony Much Room BMX Grips $189
+Alienation Backlash V2 BMX Grips $319
+CORE Puños Patinete $269
+Alienation Moto Lock On Puños $669
+///////////manillares////////////////
+Alienation 2-Piece Manillar BMX $2,290
+Colony Sweet Tooth Alex Hiam Manillar BMX $1,290
+Mission Crosshair 4-Piece Manillar BMX $849
+/////////////direccion///////////
+Salt Pro Juego De Dirección Scooter Integrada $439
+Odyssey Conical Integrado Dirección $589
+Total BMX Killabee Juego De Dirección Scooter $999
+Mission Turret Integrado Dirección $419
+/////////////tijeras/////////////////
+Mission Battalion V2 Horquilla BMX $1,790
+Odyssey F25 Horquilla BMX $4,890
+Odyssey R15 Horquilla BMX $4,190
+Colony Sweet Tooth Alex Hiam 20" Horquilla BMX $2,190
+ //////////////sillines////////////
+ Mission Railed Sillin Bmx $399
+Mission Railed Sillin Bmx $399
+Wethepeople Team Fat 2020 Pivotal Sillin BMX $959
+Eclat Bios Fat V2 Pivotal Sillin Bmx $859
+Colony Fat Pivotal Sillin BMX $659
+Wildcat Pivotal BMX Seat y Seat Post $649
+/////////////tijas//////////////////
+Kink Stealth/Pivotal BMX Seat Post $779
+Federal Pivotal Tija De Sillín BMX $589
+Cinema Stealth/Pivotal Seatpost $639
+Colony Pivotal BMX Seat Post $679
+Mission Carrier V2 Stealth Seat Kit $1,190
+/////////////cera/////////////////
+Pig Head Cera Skate $159
+CORE Epic Skate Wax $139
+Federal Block Wax $159
+Mosaic Skate Wax $229
+Independent Kurb Killer Cera Skate $109
+////////////////pegs////////////////
+Salt Pro Acero Pegs BMX $889
+Salt Pro Acero Pegs BMX $889
+TLC Jenova Alloy BMX Peg $589
+Fiction Nightstalker Alloy/Thermalite Peg BMX Freestyle $309
+Haro Baseline Peg BMX $749
+Salt Pro Acero/Nylon Pegs BMX $619
+////////////tenis////////////////
+MARANA MICHELIN 2045.62
+MARANA MICHELIN X RYAN SHECKLER 2045.62
+MARANA FIBERLITE 2562.04
+JAMESON MID CRANK MTB X BRANDON SEMENUK 2562.04
+Vans X Bruce Lee Skate Old Skool 1787.61
+Gradient BMX Sk8-Hi 1886.90
+Gradient BMX Old Skool 1688.28
+Skate Sk8-Hi 1787.59
+Wrapped Skate Old Skool 1588.97
+Canvas High Yellow White Dia de Muertos $ 749.00 
+Smith High Black White $ 899.00 
+Smith High Beige White Black $ 899.00 
+Smith High Azul Blanco Goma $ 899.00 
